@@ -1,7 +1,5 @@
 #!/usr/bin/env python3
 
-import sqlite3
-
 class HelicalCompressionSpring:
     """A class for the design of helical compression springs. Based upon
     Shigley's Mechanical Engineering Design."""
